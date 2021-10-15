@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/style/style.css">
+    <title>Ejercicio_Apalabrados</title>
+</head>
+<body>
+    <form action="" class="form-container">
+        <h2>Juego de Apalabrados</h2>
+            <p> En este juego deberás ingresar un número, una palabra o un texto con caracteres diferentes a las letras, dependiendo de la entrada se organizará la salida.</p>
+            
+        <label for="value" class="requerimiento">
+            <span class="requerimiento-label">Ingresa una palabra</span> 
+            <input class="requerimiento-input" type="text" name="value" id="value">
+        </label> 
+        
+        <button class="requerimiento-button" id="calcular">Almacenar</button>
+    </form>
+    <div id="salida"></div>
+    <h2>BD</h2>
+    <section class="tabla-container">
+        
+        <div class="head-numero row align-items-start">Número</div>
+        <div class="head-texto">Texto</div>
+        <div class="head-caracter">Caracteres</div>
+        <div class="container-numero" id="insert-num">
+            <div class="sub-num__numero">Número</div>
+            <div class="sub-num__acumulado" >Acumulado</div>
+        </div>
+        <div class="container-texto" id="insert-tex">
+            <div class="sub-tex__texto">Texto</div>
+            <div class="sub-tex__inicial">Inicial</div>
+            <div class="sub-tex__final">Final</div>
+            
+        </div>
+        <div class="container-caracter" id="insert-car">
+            <div class="sub-car__caracter">Carácter</div>
+        </div> 
+    </section>
+</body>
+<script src="./src/index.js"></script>
+</html>
