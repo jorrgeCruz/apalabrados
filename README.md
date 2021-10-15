@@ -40,7 +40,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Puedes seguir este tutorail desde github: 
 [Clonar un repositorio](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
 
+![apalabrados -  Diagrama de flujo (1)](https://user-images.githubusercontent.com/68938473/137425114-3d03db65-72e0-4b5e-bcf0-11c20502f7d9.png)
 
-![apalabrados -  Diagrama de flujo](https://user-images.githubusercontent.com/68938473/137424850-7d899472-e21d-4dfa-b7fc-5769f137dbde.png)
 
 
