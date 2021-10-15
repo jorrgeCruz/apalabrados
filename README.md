@@ -39,6 +39,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
     
 Puedes seguir este tutorail desde github: 
 [Clonar un repositorio](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
-![Alt text](./scr/img/apalabrados-Diagrama-de-flujo.svg)
 
-<img src="./scr/img/apalabrados-Diagrama-de-flujo.svg">
+
+![apalabrados -  Diagrama de flujo](https://user-images.githubusercontent.com/68938473/137424850-7d899472-e21d-4dfa-b7fc-5769f137dbde.png)
+
+
