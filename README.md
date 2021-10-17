@@ -32,13 +32,13 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
 ```
-    * Si lo descargaste:
+
+  * Si lo descargaste:
 
     * Enseguida en “Download Zip”, comenzara la descarga, una vez terminada la descarga debes descomprimir el archivo:
-      * Ahora cuentas con el proyecto en tu computadora y lo puedes modificar a tus necesidades 
+    * Ahora cuentas con el proyecto en tu computadora y lo puedes modificar a tus necesidades 
     
 Puedes seguir este tutorail desde github: 
 [Clonar un repositorio](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
-![Alt text](./scr/img/apalabrados-Diagrama-de-flujo.svg)
 
-<img src="./scr/img/apalabrados-Diagrama-de-flujo.svg">
+![apalabrados -  Diagrama de flujo (1)](https://user-images.githubusercontent.com/68938473/137425114-3d03db65-72e0-4b5e-bcf0-11c20502f7d9.png)
