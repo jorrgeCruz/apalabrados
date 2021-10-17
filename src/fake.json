@@ -1,0 +1,8 @@
+{
+  "numeros":[5,15,20,7,9],
+  "acumulados":[5,20,40,47,56],
+  "textos": ["hola","mundo","como","estas", "Jorge"],
+  "inicios":["h","m","c","e", "J"],
+  "finals":["a", "o","o","s", "e"],
+  "caracters":["@","*","-","+","%"]
+}
